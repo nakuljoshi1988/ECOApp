@@ -127,4 +127,8 @@ public class LifeCycleListenerImpl implements LifeCycleListener
   {
     // Add code here...
   }
+  
+  public void test() {
+      
+  }
 }
